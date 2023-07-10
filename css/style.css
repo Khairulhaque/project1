@@ -150,9 +150,7 @@
     background-color: #ddd8d8;
     display: flex;
     justify-content: center;
-    align-items: center;
-    
-    
+    align-items: center;  
 }
 .feature_text .icon{
     padding: 0 40px;
@@ -247,5 +245,91 @@
 }
 .discount .flower img{
     margin-left: 120px;
+}
+.instra .title{
+    text-align: center;
+    margin-top: 100px;
+}
+.instra .title h1{
+    font-size: 48px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+}
+.instra .title h3{
+    margin: auto;
+    width: 520px;
+    font-size: 14px;
+    font-family: 400;
+    color: #7e5f5f;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 15px;
+}
+.instra .title_img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    
+}
+.instra .title_img img{
+    padding: 0 15px;
+}
+.last_text{
+    width: 80%;
+    height: 350px;
+    background: #491f42;
+}
+
+.last_text{
+    margin: auto;
+    margin-top: 150px;
+    width: 80%;
+    height: 500px;
+    background: url(../images/Rectangle\ 9.png) no-repeat;
+    background-size: cover;
+    
+}
+.last_text .last{
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+    
+}
+.last_text .last h1{
+    padding-top: 150px;
+    font-size: 38px;
+    font-family: 400;
+    color: #020202;
+    font-family: 'Open Sans', sans-serif;
+}
+.last_text .last h2{
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: 400;
+    color: #020202;
+    font-family: 'Open Sans', sans-serif;
+}
+.last1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.last1 .ome input{
+    border: 0;
+    /* width: 532px;
+    height: 40px; */
+    border-radius: 5px;
+    display: block;
+    padding: 15px 174px;
+    margin-top: 25px;
+}
+.last1 .btn{
+    background-color: #E55473;
+    padding: 15px 37px;
+    border: 0;
+    color: #ffffff;
+    margin-top: 23px;
+    margin-right: 29px;
+    margin-left: 15px;
 }
 /* discount part end */
