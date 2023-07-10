@@ -200,3 +200,52 @@
     
 }
 /* FEATURE part END*/
+
+/* discount part start */
+.discount{
+ margin-top: 150px;
+    height: 550px;
+    background-color: #ffbdcb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.discount .description h1{
+    font-size: 38px;
+    font-family: 'Open Sans', sans-serif;
+}
+.discount .description span{
+    color: aquamarine;
+}
+.discount .description{
+    text-align: center;
+}
+.discount .description h3{
+    width: 668px;
+    font-size: 14px;
+    font-family: 400;
+    color: #7e5f5f;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 20px;
+   
+}
+.discount .description p{
+    text-align: center;
+    margin-left: -3px;
+}
+.discount .description .button{
+    padding: 20px 52px;
+    background-color: #E55473;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: .6s;
+}
+.discount .description .button:hover{
+    color: rgb(255, 254, 254);
+    background-color: rgb(54, 78, 54);
+}
+.discount .flower img{
+    margin-left: 120px;
+}
+/* discount part end */
