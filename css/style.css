@@ -4,7 +4,7 @@
 }
 /* banner part start */
 .banner_part{
-  height: 824px;
+  height: 831px;
   background: rgb(255, 207, 207);
   /* background: url(../images/pngwing\ 10.png) no-repeat;
   background-size: cover; */
@@ -19,6 +19,9 @@
     margin-top: 131px;
     font-size: 60px;
     font-family: 'Open Sans', sans-serif;
+}
+.banner .img{
+    padding-left:130px;
 }
 .banner .text p{
     margin-top: 30px;
